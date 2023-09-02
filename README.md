@@ -1,10 +1,6 @@
 # Analyzing-Robot-Biding-in-Online-Auction
 <br>
 
-**Introduction**
-
-<br>
-
 **PROBLEM DEFINITION**
 
 <p align = "justify">
